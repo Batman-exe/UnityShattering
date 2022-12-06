@@ -1,5 +1,7 @@
 # UnityShattering
 
+### How to run   
+
 To try the project clone this repository, then open with unity hub, this project was made with the unity editor version 2021.3.8f1  
 When you open the project, You will find something as the image below  
   
@@ -7,5 +9,10 @@ When you open the project, You will find something as the image below
   
 Click on the play button marked with the red circle.  
   
+### Interaction  
+  
 To interact with the scene click on the boxes or in the bottles.  
   
+### Demo  
+  
+You can find a video [here](https://youtu.be/pYTf7TA-7I4)
